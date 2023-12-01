@@ -13,4 +13,4 @@ You’ve learned a ton about HTML, CSS, and the web in this course. The final pr
 - Paul Tsisey
 
 ## Description
-[Any notes you'd like people to know about your project]
+This is a web page developed.
